@@ -1,5 +1,6 @@
 Task
-Given an integer, , perform the following conditional actions:
+
+Given an integer, n, perform the following conditional actions:
 
 - If n is odd, print Weird
 - If n is even and in the inclusive range of  to , print Not Weird
@@ -33,6 +34,7 @@ Weird
 ### Explanation 0
 
 n = 3
+
 n is odd and odd numbers are weird, so print Weird.
 
 ### Sample Input 1
@@ -50,4 +52,5 @@ Not Weird
 ### Explanation 1
 
 n = 24
+
 n > 20 and n is even, so it is not weird.
