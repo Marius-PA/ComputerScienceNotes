@@ -1,0 +1,2 @@
+# ComputerScienceNotes
+ Weekly Notes
