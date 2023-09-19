@@ -195,3 +195,10 @@ s
 ```
 
 “For” loops are used for Loops with a defined range.
+
+---
+
+### Algorithm definition:
+
+An algorithm is a procedure used for *solving a problem* or performing a computation.
+It acts as an exact *list of instructions* that conduct specified actions step by step.
