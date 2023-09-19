@@ -123,3 +123,75 @@ output:
 "mittens"
 "MITTENS"
 ```
+
+--- 
+
+Const VS Variables:
+
+Reorder logic
+
+```python
+name = "marius"
+a = True
+b = False
+
+if a:
+    print("yes")
+else:
+    if b:
+        print("maybe")
+    else:
+        print("no")
+
+### identical but setenced differently
+
+if a:
+    print("yes")
+elif b:
+    print("Maybe")
+else:
+    print("no")
+```
+
+### “For” Loops VS “While” Loops:
+
+### “While” Loops:
+
+```python
+name = "marius"
+
+for i in name:
+    print(i)
+
+output:
+m
+m
+m
+m
+m
+m
+m
+m
+(infintly repeat "m")
+```
+
+### “For” Loops:
+
+```python
+name = "marius"
+index = 0 
+
+while index < len(name):
+    print(name[index])
+
+Output:
+
+m
+a
+r
+i
+u
+s
+```
+
+“For” loops are used for Loops with a defined range.
