@@ -164,15 +164,13 @@ for i in name:
     print(i)
 
 output:
+
 m
-m
-m
-m
-m
-m
-m
-m
-(infintly repeat "m")
+a
+r
+i
+u
+
 ```
 
 ### “For” Loops:
@@ -183,6 +181,7 @@ index = 0
 
 while index < len(name):
     print(name[index])
+    index += 1
 
 Output:
 
@@ -192,13 +191,14 @@ r
 i
 u
 s
+
 ```
 
 “For” loops are used for Loops with a defined range.
 
 ---
 
-### Algorithm definition:
+### __Algorithm definition:__
 
-An algorithm is a procedure used for *solving a problem* or performing a computation.
-It acts as an exact *list of instructions* that conduct specified actions step by step.
+An algorithm is a procedure used for __**solving a problem**__ or performing a computation.
+It acts as an exact __**list of instructions**__ that conduct specified actions step by step.
