@@ -225,7 +225,9 @@ Learning Objectives:
 - differences between cariable and a constant
 - explain advantages of using named constans
 - be familair with : 
+
         random number generation
+
         exception handling
 
 - use exception handling with a familiar programming language
