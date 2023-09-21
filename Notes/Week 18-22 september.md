@@ -213,14 +213,14 @@ for x in reversed(range(1, 8)): # Range : counts from 7 to 1
 
 ---
 
-### __Algorithm definition:__
+## __Algorithm definition:__
 
 An algorithm is a procedure used for __**solving a problem**__ or performing a computation.
 It acts as an exact __**list of instructions**__ that conduct specified actions step by step.
 
 ---
 
-Learning Objectives:
+# Learning Objectives:
 
 - differences between cariable and a constant
 - explain advantages of using named constans
