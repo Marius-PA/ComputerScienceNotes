@@ -208,3 +208,24 @@ except:
 
 
 ```
+
+Using with a loop:
+
+```python
+
+isLooping = True # loop around it until the user gives a correct input
+
+while isLooping:
+    try:
+        number = int(input("Enter a number : "))
+        print(":)")
+        isLooping = False
+    except:
+        print(":(")
+
+
+```
+
+substring:
+starting index, ending index:
+step = -number 

@@ -1,6 +1,6 @@
-### “For” Loops VS “While” Loops:
+# “For” Loops VS “While” Loops:
 
-### “While” Loops:
+## “While” Loops:
 
 ```python
 name = "marius"
@@ -18,7 +18,7 @@ u
 
 ```
 
-### “For” Loops:
+## “For” Loops:
 
 ```python
 name = "marius"
