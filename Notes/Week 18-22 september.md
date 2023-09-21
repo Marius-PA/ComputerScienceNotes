@@ -231,3 +231,38 @@ It acts as an exact __**list of instructions**__ that conduct specified actions 
         exception handling
 
 - use exception handling with a familiar programming language
+
+---
+
+# Organisation:
+
+put variables in CAPS to tell the variable is important and for context
+
+## CONTEXT is the most important in a script
+
+---
+
+## Seed:
+
+used to create radom numbers that will follow the same patern:
+
+- the same seed will always display the same numbers
+
+---
+
+# Try and Execpt
+
+Telling python to try his best to figure out a instructions without error.
+
+```python
+
+
+try:
+    number = int(input("Enter a number : ")) # if the number the user input is a int then print :)
+
+    print(":)")
+except:
+    print(":(") # if the user inputs not a integer (string), then print :( 
+
+
+```
