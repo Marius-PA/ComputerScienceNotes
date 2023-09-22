@@ -27,4 +27,13 @@ Hello guys !
 
 ```
 Functions give us the ability to reduce the amount of code and being re-used:
-## **it's like a big variable** 
+### **it's like a big variable** which can be called
+
+---
+
+# Parameters of subroutines:
+
+- Being able to:
+    - Describe the use of parameters to pass data within programs
+    - Use subroutines with interfaces
+
