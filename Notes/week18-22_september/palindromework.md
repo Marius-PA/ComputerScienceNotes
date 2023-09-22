@@ -31,3 +31,30 @@ else:
         print("'",word,"'","is not a palindrome")
 
 ```
+
+---
+
+Using a function:
+
+```python
+
+    
+word = input("Enter a word: ")
+word = word.lower()  # Convert the word to lowercase for case-insensitive comparison
+
+# Check if the word has at least 2 characters
+
+def palindrome():
+
+    if len(word) <= 2:
+        print("/!\ Your word must be at least 2 characters long. /!\ ")
+        exit()
+
+    elif word == word[::-1]: # looking at the last index of the word to see if it is similar
+        print("'",word,"'",": is a palindrome")
+    else:
+        print("'",word,"'","is not a palindrome")
+
+palindrome()
+
+```

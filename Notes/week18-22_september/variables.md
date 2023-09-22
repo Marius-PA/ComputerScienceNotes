@@ -40,3 +40,25 @@ f()
 print()
 
 ```
+
+# Scope
+
+```python
+
+a = 1
+b = 2
+c = 4
+
+def g():
+    a = 329
+    print(a)
+
+def f():
+    a = 329
+    print(a)
+    g()
+
+print(a) # 1
+f()      # 329
+
+```
