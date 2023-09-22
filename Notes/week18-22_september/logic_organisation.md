@@ -31,3 +31,11 @@ elif b:
 else:
     print("no")
 ```
+
+## optimisation of code is super important:
+
+- 1) write everything that passes through your head
+    - then think and optimise and reduce the amount as much as possible
+
+- after finishing a program, always make it half the total amount of code:
+    - making it easier for everyone to read it and understand
