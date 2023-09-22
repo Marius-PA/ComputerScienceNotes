@@ -1,10 +1,8 @@
-# functions:
-
-subroutines (procedures/functions)
+# subroutines (procedures/functions)
 
 Objectives:
 - being familiar with subroutines and uses
-- subroutine is a 'our of line' block of code
+- subroutine is a 'out of line' block of code
 - explain advantages of using fuctions
 - reducing down the code, less spaghetti code
 
