@@ -4,6 +4,8 @@
 - be able to use relational operators
 - be able to use boolean operations AND, OR (AND happens first and then OR)
 
+---
+
 # IF ... THEN
 
 - program flows is controlled by evaluating a Boolean condition
