@@ -44,12 +44,4 @@ print(names[1,3])
 
 # 2D arrays
 
-
-| Syntax      | i |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+unit 1, topic 4 homework
