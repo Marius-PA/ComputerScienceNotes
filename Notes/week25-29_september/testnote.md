@@ -2,9 +2,11 @@
 # number theory:
 
 N = {1,2,3,....}
+
 Z = {..., -1,0,1, ...}
 
 rational numbers = represented by "Q"
+
 Q = {a/b, a is a memeber of Z, b is a member of Z, b != 0}
 
 # iteration
@@ -28,3 +30,7 @@ Q = {a/b, a is a memeber of Z, b is a member of Z, b != 0}
     - use of named constans
     - use of libraries
     - meaning / appropriate / suitable identifiers
+
+- NOT TO WRITE:
+    - "easier to understand" = don't write
+
