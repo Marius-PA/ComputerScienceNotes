@@ -38,4 +38,5 @@ array are always same size = static
 list = static or dynamic = more generalised idea of arrays
 
 a list uses arrays to implement list but 
+
 |list != array|
