@@ -25,8 +25,16 @@ the idear of a list
 
 ---
 
+# Introduction to data structures
+
 |Category|Word|
 |-|-|
 |Elementary data type|intergers, char, real, Boolean|
 |Composite data type|string, array|
 |Abstract data type|list, stack, queue|
+
+array are always same size = static
+
+list = static or dynamic = more generalised idea of arrays
+
+a list uses arrays to implement list but |list != array|
