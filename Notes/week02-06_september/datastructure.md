@@ -40,3 +40,46 @@ list = static or dynamic = more generalised idea of arrays
 a list uses arrays to implement list but 
 
     list != array
+
+---
+
+# List
+
+```python
+
+
+stuff = []
+
+stuff.append("a")
+stuff.append(2)
+stuff.append(True)
+
+print(stuff)
+
+#output
+#['a', 2, True]
+
+```
+multitple data type can be in one list
+
+---
+
+underflow: going to the negative value
+
+```python
+
+stuff = []
+
+stuff.append("a")
+stuff.append(2)
+stuff.append(True)
+
+print(stuff)
+
+while True:
+    print(stuff.pop())
+
+#output
+#IndexError: pop from empty list
+
+```
