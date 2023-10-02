@@ -25,8 +25,8 @@ the idear of a list
 
 ---
 
-|Category||Word|
-|--------||----|
-|Elementary data type||intergers, char, real, Boolean|
-|Composite data type||string, array|
-|Abstract data type||list, stack, queue|
+|Category|Word|
+|-|-|
+|Elementary data type|intergers, char, real, Boolean|
+|Composite data type|string, array|
+|Abstract data type|list, stack, queue|
