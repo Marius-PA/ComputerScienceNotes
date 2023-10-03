@@ -149,15 +149,30 @@ x, y = y,x
 
 ---
 
-# Objectives
+# 1D arrays
+
+## Objectives
 
 - Be familiar with the concept of a data structure
 - Use 1D and 2D arrays in the design of solutions to simple problems
 
 bytes = smallest addressable memory
 
-|[0]|[u-1]|
-|---|---|
-|0|0|0|0|0|
+---
 
----- u -----
+# why index start from 0 and not 1
+
+## 0 is the black hole of nothing, it disovles
+
+0 is having the concept of nothing = formula to make sens
+
+### ***without nothing we can't have something***
+
+---
+
+# 2D arrays
+
+|0|1|1|1|
+|:-:|:-:|:-:|:-:|
+|2|3|1|1|
+|0|1|1|1|
