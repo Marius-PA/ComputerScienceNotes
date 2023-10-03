@@ -177,11 +177,100 @@ bytes = smallest addressable memory
 |0,1|1,1|x|
 |0,2|x|1,1|
 
-exemple :
+```python
 
-|0,0|1,0|2,0|
-|:-:|:-:|:-:|
-|0,1|1,1|x|
-|0,2|x|1,1|
+grid = [[1] * 3] * 10
+
+grid[0] = 1
+grid[5] = 7
+
+print(grid)
 
 
+```
+
+---
+
+```python
+
+MAGIC = 3
+grid = [[0] * MAGIC] * MAGIC
+
+for row in range(MAGIC):
+    print(grid[row])
+
+#output
+#[0, 0, 0]
+#[0, 0, 0]
+#[0, 0, 0]
+
+```
+
+---
+
+naming different = CAN BE ANYTHING AS LONG AS YOU HAVE THE SAME LOGIC CONSITENTLY
+
+```python
+
+MAGIC = 3
+grid = [[0] * MAGIC] * MAGIC
+
+for row in range(MAGIC):
+    for col in range(MAGIC):
+        print(col, row)
+
+#output:
+
+#0 0
+#1 0
+#2 0
+#0 1
+#1 1
+#2 1
+#0 2
+#1 2
+#2 2
+
+```
+
+---
+
+```python
+
+MAGIC = 3
+grid = [[0] * MAGIC] * MAGIC
+
+grid[1][1] = 7
+
+print(grid)
+
+for row in range(MAGIC):
+    for col in range(MAGIC):
+        print(grid[col][row])
+
+#output:
+
+#[[0, 7, 0], [0, 7, 0], [0, 7, 0]]
+#0
+#0
+#0
+#7
+#7
+#7
+#0
+#0
+#0
+
+```
+
+## to understand 2D arrays, you need to understand 1D arrays
+
+---
+
+```python
+
+numbers = [ x for x in range(1,101, 2) if x > 50]
+
+print(numbers)
+
+```
