@@ -158,6 +158,6 @@ bytes = smallest addressable memory
 
 [0]  [u-1]
 
-||||||
+|0|0|0|0|0|
 
 ---- u -----
