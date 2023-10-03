@@ -146,3 +146,18 @@ y = 2
 x, y = y,x
 
 ```
+
+---
+
+# Objectives
+
+- Be familiar with the concept of a data structure
+- Use 1D and 2D arrays in the design of solutions to simple problems
+
+bytes = smallest addressable memory
+
+[0]  [u-1]
+
+||||||
+
+---- u -----
