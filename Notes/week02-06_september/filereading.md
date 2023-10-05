@@ -38,3 +38,21 @@ Var
 ```
 
 Here a user-defined data type **studentRec** is defined, and a variable of this type is declared
+
+- no equivalent data type decalration in Python
+
+---
+
+# File types
+
+- File may be a binary or a text file
+- Text file may have several **texts fields**, in each record
+- Binary file = records with different types of **fields** such as string, integer, real, Boolean
+- Each of these fields occupy a dofferent number of bytes
+- Program must specify which type of file it is
+
+---
+
+# Text file
+
+- Text file has fields typically seperated by commas, and written one line at a time
