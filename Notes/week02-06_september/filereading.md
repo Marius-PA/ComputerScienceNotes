@@ -56,3 +56,89 @@ Here a user-defined data type **studentRec** is defined, and a variable of this 
 # Text file
 
 - Text file has fields typically seperated by commas, and written one line at a time
+
+---
+
+# Records
+
+```c++
+
+#include <stdio.h>
+
+struct studentRec
+{
+    char first[20];
+    char surname[20];
+    int mark;
+}
+
+// pascal code into c++
+
+//Type
+//    studentRec = Record
+//    surname, first name: string[20]
+//    mark : integer
+//    End;
+//Var
+//    student : studentRec
+
+int
+main (void)
+{
+    struct studentRec s;
+
+    s.mark
+
+    printf("Hello, Word\n")
+    return 0;
+}
+
+```
+
+```python
+
+class studentRec:
+    def __init__(self):
+        self.first = ""
+        self.surname = ""
+        self.mark = 0
+
+s = studentRec()
+
+s.first
+
+s.mark = 10
+
+def main():
+    print("Hello, World")
+
+if __name__ == '__main__'
+    main()
+
+```
+
+---
+
+# CSV files
+
+exemple:
+
+```python
+
+f = open("Classeur1.csv", "r")
+
+for line in f.readlines():
+    print(line.strip().split(','))
+
+
+```
+
+```python
+
+f = open("Classeur1.csv", "r")
+
+for line in f.readlines():
+    for field in line.split(','):
+        print(field.strip())
+
+```
