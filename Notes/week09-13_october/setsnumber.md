@@ -45,5 +45,40 @@ There needs to be nothing to have something
 
 ℚ is a set of numbers that can be written as fractions (ratios of integers). Since a number such as 7 can be written as 7/1, ***all intergers are rational numbers.***
 
-    ℚ={ab:a,b∈ℤ;q≠0}
+    ℚ={ab:a,b∈ℤ;b≠0}
+
+Be familiar with the concept of a rational number and the set ℚ of rational numbers, and that this set includes the integers
+
+--- 
+
+# irrational Numbers
+
+An irrational number is
+
+# Real numbers
+
+The set of real numbers consists of both rational and irrational numbers, denoted by ℝ; in other words, it is the set of all 'possible real world quantities'.
+
+---
     
+# Ordinal Numbers
+
+When objects are placed in order, ordinal numbers are used to indicate their position. For exemple, if we have {'a','b','c','d'}, then 'a' is first, 'b' is second, and so on.
+
+- Ordinal numbers arepositions within a sequence, such as first or last
+
+---
+
+# Counting and Measurement
+
+Natural numbers should be associated with counting; real numbers should be assiciated with measurement;
+
+- natural numbers, *int* in Python, used to count cycles of while-llops, indexes in for-loops
+
+- real numbers, *float* in Python, used for measurements, the sresult of a vector dot product calculation; an approximation.
+
+---
+
+# Extension
+
+For an extension task, research the complex and imaginary numbers; they are used in fields including, but not limited to, Electrical Engineering and Quantum Computing.
