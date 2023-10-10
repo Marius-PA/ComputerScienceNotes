@@ -201,5 +201,10 @@ Simply split the binary into ***nibbles*** (4 bits)
     01111011 (base 2) = 0111 (base 2), 1011 (base 2) = 7B (base 16)
     
     0111 (base 2) = 7 (base 10) = 7 (base 16)
-    
     1011 (base 2) = 11 (base 10) = B (base 16)
+
+---
+
+# Hexidecimal Usage
+
+It is ***shorthands*** for humans, uses less space than binary with an easier representation, uses less space on hard drive.
