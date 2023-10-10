@@ -13,10 +13,7 @@ American mathematician whose calculations of orbital mechanics as a NASA employe
 
 ```mermaid
 timeline
-    title History of Social Media Platform
-    2002 : LinkedIn
-    2004 : Facebook
-         : Google
-    2005 : Youtube
-    2006 : Twitter
+    Black Women Achivements in computer science
+    1981 : Deborah Washington Brown = became the first Black woman to earn a doctorate degree
+
 ```
