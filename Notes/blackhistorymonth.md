@@ -11,7 +11,7 @@ from 1940, beginning of computer science
 American mathematician whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. crewed spaceflights.
 
 
-:::mermaid
+```mermaid
 timeline
     title History of Social Media Platform
     2002 : LinkedIn
@@ -19,4 +19,4 @@ timeline
          : Google
     2005 : Youtube
     2006 : Twitter
-:::
+```
