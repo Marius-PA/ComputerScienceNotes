@@ -1,3 +1,5 @@
+# 09/10/2023
+
 # Objectives:
 
 - Number sets
@@ -82,3 +84,75 @@ Natural numbers should be associated with counting; real numbers should be assic
 # Extension
 
 For an extension task, research the complex and imaginary numbers; they are used in fields including, but not limited to, Electrical Engineering and Quantum Computing.
+
+---
+
+# Starter activity
+
+Consider the following set-builder notation and discuss their meaning:
+
+    N = {x | x ∈ Z,x >= 0}
+    Z = {x | |x| ∈ N}
+
+---
+
+# 10/10/2023
+
+# Learning objectives
+
+- be familiar with:
+    - concept of a number base (decimals)
+    - binary
+    - hexadecimal
+        - Be able to use:
+            - hexadecimal as a shorthand for binary (and why it's used in this way)
+
+- convert between:
+    - binary, hexadecimal number bases
+
+---
+
+# Number Bases
+
+The base of a number is represented by subscript:
+
+|number|binary|hexadecimal|
+|-|-|-|
+|123^10|01111011^2 |7B^16|
+
+# Decimal Numbers (base 10)
+
+decimal numbers use 10 numerical digits, from 0 to 9.
+
+    123^10 = 100^10 + 20^10 = 3^10 = 1 * 10^2 + 2 * 10^1 + 3 * 10^0
+
+|10^2|10|10|
+|-|-|-|
+|1|2|3|
+|100|20|3|
+|100 +|2 +| 3|
+
+# Binary Numbers (Base 2)
+
+Binary use only ***2 digits***, 0s and 1, where each digits * by the base (2):
+
+    0111011^2 = 64^10+32^10+16^10+8^10+2^10+1^10 = 123^10
+
+|2^7 (128)|2^6 (64)|2^5 (32)|2^4 (16)|2^3 (8)|2^2 (4)|2^1 (2)|2^0 (1)|
+|-|-|-|-|-|-|-|-|
+|0|1|1|1|1|0|1|1|
+|0 +|64 +|32 +|16 +|8 +|0 +|2 +|1|
+
+# Hexadecimal (Base 16)
+
+Hexadecimal numbers use 16 alphanumerical digits, including from 0 to 9, and A to F for denoting 10^15 to 15^10 (16^n)
+
+    7B^16 = 7^10 * 16^1 + 11^10 * 16^0 = 123^10
+
+|16^2 (256)| 16^1 (16)| 16^0 (1)|
+|-|-|-|
+|-|7|B|
+
+|A|B|C|D|E|F|
+|-|-|-|-|-|-|
+|10|11|12|13|14|15|
