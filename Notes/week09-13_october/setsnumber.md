@@ -156,3 +156,50 @@ Hexadecimal numbers use 16 alphanumerical digits, including from 0 to 9, and A t
 |A|B|C|D|E|F|
 |-|-|-|-|-|-|
 |10|11|12|13|14|15|
+
+# Base Conversion
+
+3 number based used, but 6 conversion:
+
+- Binary
+    - Binary to Decimal
+    - Binary to hexadecimal
+
+- Hexadecimal
+    - Hexidecimal to Binary
+    - Hexidecimal to Decimal
+
+- Decimal
+    - Decimal to binary
+    - Decimal to hexadecimal
+
+# Hexadecimal to Decimal Conversion
+
+|16^2 (256)| 16^1 (16)| 16^0 (1)|
+|-|-|-|
+|-|7(base 16)|B (base 16)|
+|-|7 (base 10)| 11 (base 10)|
+
+There is a 7 and a B
+
+B = 11
+
+
+16^1 = 1 * 16
+
+16^0 = 1
+
+123 mod 16 = 11
+
+11 (base 10) = B (base 16)
+
+
+# Binary to hexadecimal
+
+Simply split the binary into ***nibbles*** (4 bits)
+
+    01111011 (base 2) = 0111 (base 2), 1011 (base 2) = 7B (base 16)
+    
+    0111 (base 2) = 7 (base 10) = 7 (base 16)
+    
+    1011 (base 2) = 11 (base 10) = B (base 16)
