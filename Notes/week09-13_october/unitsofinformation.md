@@ -29,7 +29,7 @@ Example:
 
 3 bits can be configured in 2^3 = 8 different ways:
 
-    2<sup>3</sup> = 8
+2<sup>3</sup> = 8
 
     (Base 2) 000,001,010,011,100,101,110,111
 
