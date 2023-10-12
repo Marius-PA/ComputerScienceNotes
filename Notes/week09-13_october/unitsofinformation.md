@@ -7,7 +7,7 @@
 
 - Be able to define:
     - bits and bytes
-    - know that the 2^n values can be represented with n bits
+    - know that the 2<sup>n</sup> values can be represented with n bits
 
 - Know:
     - quantities of bytes
@@ -27,9 +27,9 @@ Byte = group of 8bits (it may vary)
 
 Example:
 
-3 bits can be configured in 2^3 = 8 different ways:
+3 bits can be configured in 2<sup>3</sup> = 8 different ways:
 
-2<sup>3</sup> = 8
+    2^3 = 8
 
     (Base 2) 000,001,010,011,100,101,110,111
 
@@ -38,3 +38,7 @@ Example:
 # Bits
 
     [log(n) (base2)] = bits, where n = states
+
+states to bits = log<base>2</base>(states)
+
+minimum number of bits required to represent the states = ceilling(log(base2)(states))
