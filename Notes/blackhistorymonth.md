@@ -6,14 +6,14 @@ from 1940, beginning of computer science
     - produce some medias (can be an article, academic paper, video compilation)
     - compilation of media
 
-# katherine johnson
+# Deborah Washington Brown
 
-American mathematician whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. crewed spaceflights.
+She was the first black woman to earn a doctorate in computer science (then a part of their applied math program) at Harvard University in 1981 and one of the first black female computer scientists to graduate from a U. S. doctoral program. Her first job was at Norden Systems, developing software for missile defense technology.
 
 
 ```mermaid
 timeline
-    Black Women Achivements in computer science
-    1981 : Deborah Washington Brown = became the first Black woman to earn a doctorate degree
+    Deborah Washington Brown
+    1981 : became the first Black woman to earn a doctorate degree
 
 ```
