@@ -42,3 +42,27 @@ Example:
 states to bits = log<sub>2</sub>(states)
 
 minimum number of bits required to represent the states = ceilling(log(base2)(states))
+
+# Quantity Prefixes
+
+Quantities of bytes = binary prefixes<sub>2</sub> or decimal prefixes<sub>10</sub>
+
+one kibibytes is not equivalent to one kilobyte:
+
+    1KiB (kibibytes) = 210B
+    1kB (kilobyte) = 103B
+
+
+## Binary Prefixes:
+
+- kibi, ki - 2<sub>2</sub><sup>10</sup>
+- mebi, Mi - 2<sub>2</sub><sup>20</sup>
+- gibi, Gi - 2<sub>2</sub><sup>30</sup>
+- tebi, Ti - 2<sub>2</sub><sup>40</sup>
+
+## Decimal Prefixes
+
+- kilo, k - 10<sup>3</sup>
+- mega, M - 10<sup>6</sup>
+- giga, G - 10<sup>9</sup>
+- tera, T - 10<sup>12</sup>
