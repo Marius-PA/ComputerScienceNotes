@@ -66,3 +66,20 @@ one kibibytes is not equivalent to one kilobyte:
 - mega, M - 10<sup>6</sup>
 - giga, G - 10<sup>9</sup>
 - tera, T - 10<sup>12</sup>
+
+---
+
+# Historical Context
+
+how many bist is inside something: explain how many bits is there in 10 kibibytes = ask for bits, times by 8 to figure it out.
+
+Terms of **kilo**byte,**mega**byte, ect.., have often been used when **kibi**byte, **mebi**byte, ect.., are meant, causing confusion for consumers and developers.
+
+---
+
+# Further reading
+
+- what is:
+    - a ***nibble*** in relation to binary-hexadecimal conversion
+    - the difference between ***kilobits*** and ***kilobytes***, and so forth
+    - how many binary prefixes and decimal prefixes are there
