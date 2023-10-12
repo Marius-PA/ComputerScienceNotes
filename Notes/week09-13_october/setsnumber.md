@@ -118,13 +118,13 @@ The base of a number is represented by subscript:
 
 |number|binary|hexadecimal|
 |-|-|-|
-|123^10|01111011^2 |7B^16|
+|123 (base 10)|01111011 (base 2)|7B(base 16)|
 
 # Decimal Numbers (base 10)
 
 decimal numbers use 10 numerical digits, from 0 to 9.
 
-    123^10 = 100^10 + 20^10 = 3^10 = 1 * 10^2 + 2 * 10^1 + 3 * 10^0
+123<sub>10</sub> = 100 + 20 = 3 = 1 * 10<sup>2</sup> + 2 * 10<sup>1</sup> + 3 * 10<sup>0</sup>
 
 |10^2|10|10|
 |-|-|-|
@@ -136,7 +136,7 @@ decimal numbers use 10 numerical digits, from 0 to 9.
 
 Binary use only ***2 digits***, 0s and 1, where each digits * by the base (2):
 
-    0111011^2 = 64^10+32^10+16^10+8^10+2^10+1^10 = 123^10
+0111011<sub>2</sub> = 64<sub>10</sub>+32+16+8+2+1 = 123<sub>10</sub>
 
 |2^7 (128)|2^6 (64)|2^5 (32)|2^4 (16)|2^3 (8)|2^2 (4)|2^1 (2)|2^0 (1)|
 |-|-|-|-|-|-|-|-|
@@ -147,7 +147,7 @@ Binary use only ***2 digits***, 0s and 1, where each digits * by the base (2):
 
 Hexadecimal numbers use 16 alphanumerical digits, including from 0 to 9, and A to F for denoting 10^15 to 15^10 (16^n)
 
-    7B^16 = 7^10 * 16^1 + 11^10 * 16^0 = 123^10
+7B<sub>16</sub> = 7<sub>10</sub> * 16<sup>1</sup> + 11<sub>10</sub> * 16<sup>0</sup> = 123<sub>10</sub>
 
 |16^2 (256)| 16^1 (16)| 16^0 (1)|
 |-|-|-|
@@ -185,13 +185,13 @@ There is a 7 and a B
 B = 11
 
 
-16^1 = 1 * 16
+16<sup>1</sup> = 1 * 16
 
-16^0 = 1
+16<sup>0</sup> = 1
 
 123 mod 16 = 11
 
-11 (base 10) = B (base 16)
+11<sub>10</sub> = B<sub>16</sub>
 
 
 # Binary to hexadecimal

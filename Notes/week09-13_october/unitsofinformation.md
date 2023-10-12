@@ -37,8 +37,8 @@ Example:
 
 # Bits
 
-    [log(n) (base2)] = bits, where n = states
+    [log2(n)] = bits, where n = states
 
-states to bits = log<base>2</base>(states)
+states to bits = log<sub>2</sub>(states)
 
 minimum number of bits required to represent the states = ceilling(log(base2)(states))
