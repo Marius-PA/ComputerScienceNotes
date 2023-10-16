@@ -86,5 +86,10 @@ n bits can represent 2<sup>n</sup> different values, therfore the minimum and ma
 | x | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 |
 | - | - | - | - | - | - | - | - |
 | x | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 1 |
-| carry| 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 |
+| carry | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 |
 | result | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 |
+
+| Syntax      | Description | Syntax      | Description |
+| ----------- | ----------- | - |
+| Header      | Title       | tes |
+
