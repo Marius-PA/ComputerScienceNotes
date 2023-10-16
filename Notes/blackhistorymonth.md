@@ -13,7 +13,7 @@ She was the first black woman to earn a doctorate in computer science (then a pa
 
 ```mermaid
 timeline
-    Deborah Washington Brown
+    title Deborah Washington Brown
     1981 : became the first Black woman to earn a doctorate degree
 
 ```
