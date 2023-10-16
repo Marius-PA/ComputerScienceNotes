@@ -90,6 +90,6 @@ n bits can represent 2<sup>n</sup> different values, therfore the minimum and ma
 | result | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 |
 
 | Syntax      | Description | Syntax      | Description |
-| ----------- | ----------- | - |
-| Header      | Title       | tes |
+| - | - | - | - |
+| Header      | Title       | tes | test |
 
