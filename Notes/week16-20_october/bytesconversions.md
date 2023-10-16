@@ -74,10 +74,21 @@ n bits can represent 2<sup>n</sup> different values, therfore the minimum and ma
 - Recall how to calculte the sum of two decimal numbers:
     - YOU SHOULD BE ABLE TO EXPLAIN TO OTHER
 
+27 + 15 = 42
+
+# Unsigned Binary Arithmetic : Addition
+
+- Recall how to calculte the sum of two decimal numbers:
+    - YOU SHOULD BE ABLE TO EXPLAIN TO OTHER
+
 27 + 15 = 42 = 00001111 + 00011011 = 00101010
 
 |x|0|0|0|0|1|1|1|1|
+
 |-|-|-|-|-|-|-||-|
+
 |x|0|0|0|1|1|0|1|1|
+
 |carry|0|0|1|1|1|1|1|0|
+
 |result|0|0|1|0|1|0|1|0|
