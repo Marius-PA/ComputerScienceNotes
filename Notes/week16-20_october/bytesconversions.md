@@ -59,6 +59,25 @@ Signed binary = represent ***integers***
 
 - they use different methods for representing the same values
 
+---
+
 # Unsigned Binary
 
-Value of unsigned binary != calculate the sum of each bit, either 1 or 0
+Value of unsigned binary = calculate the sum of each bit, either 1 or 0
+
+## Unsigned Limits
+
+n bits can represent 2<sup>n</sup> different values, therfore the minimum and maximum values of unsigned binary using One's Complement are 0 and 2<sup>n</sup> - 1
+
+# Decimal Arithmetic : Addition
+
+- Recall how to calculte the sum of two decimal numbers:
+    - YOU SHOULD BE ABLE TO EXPLAIN TO OTHER
+
+27 + 15 = 42 = 00001111 + 00011011 = 00101010
+
+|x|0|0|0|0|1|1|1|1|
+|-|-|-|-|-|-|-||-|
+|x|0|0|0|1|1|0|1|1|
+|carry|0|0|1|1|1|1|1|0|
+|result|0|0|1|0|1|0|1|0|
