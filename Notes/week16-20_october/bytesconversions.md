@@ -83,9 +83,8 @@ n bits can represent 2<sup>n</sup> different values, therfore the minimum and ma
 
 27 + 15 = 42 = 00001111 + 00011011 = 00101010
 
-| Syntax      | Description | Syntax      | Description | x | x | x | x | x |
-| - | - | - | - | - | - | - | - | - |
 | x | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 |
+| - | - | - | - | - | - | - | - | - |
 | x | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 1 |
 | carry | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 |
 | result | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 |
