@@ -164,6 +164,6 @@ Both signed and unsigned binary = powers increase from left to right
 
 fixed-point = decreases from left to right after the fixed point
 
-|2^4|2^3|2^1|2^0 - 2^-1|2^-2|2^-3|2^-4|
-|-|-|-|-|-|-|-|
-|8|4|2|1  -   0.5|0.25|0.125|0.0625|
+|2^4|2^3|2^1|2^0|-|2^-1|2^-2|2^-3|2^-4|
+|-|-|-|-|-|-|-|-|-|
+|8|4|2|1|-|0.5|0.25|0.125|0.0625|
