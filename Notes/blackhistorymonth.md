@@ -10,9 +10,12 @@ from 1940, beginning of computer science
 
 June 3, 1952 - June 5, 2020
 
-She was the first black woman to earn a doctorate in computer science (then a part of their applied math program) at Harvard University in 1981 and one of the first black female computer scientists to graduate from a U. S. doctoral program. Her first job was at Norden Systems, developing software for missile defense technology.
+- one of the first black female computer scientists to graduate from a U. S. doctoral program
+- the first black woman to earn a doctorate in computer science
+- received a Master's (1977) and a PhD (1981) in Applied Math at Harvard University
+- four-decade career as a computer scientist at companies like Bells Labs and AT&T
+- first job was at Norden Systems, developing software for missile defense technology.
 
-received a Master's (1977) and a PhD (1981) in Applied Math at Harvard University
 
 https://www.uml.edu/profiles/deborah-washington-brown.aspx
 
