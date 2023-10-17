@@ -88,3 +88,72 @@ n bits can represent 2<sup>n</sup> different values, therfore the minimum and ma
 |+| 0 | 0 | 0 | 1 | 1 | 0 | 1 | 1 |
 | carry | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 |
 | result | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 |
+
+---
+
+# 17/10/23
+
+# Starter activity
+
+Q1.
+
+(base 2)
+
+    0 + 0 = 0
+    0 + 1 = 1
+    1 + 0 = 1
+    1 + 1 = 10
+
+Q2. 
+
+0011 + 0001 = 0100
+
+0101 + 0110 = 1011
+
+0011 + 0101 = 1000
+
+---
+
+One's and Two's complement are **techniques**
+
+## States
+
+different combinations of the **bits**
+
+---
+
+# Signed Binary
+
+Signed binary = calculated the same way as unsigned binary, HOWEVER **the last bit is negative**, meaning -2<sup>n-1</sup>.
+
+|-2^7|2^6|2^5|2^4|2^3|2^2|2^1|2^0|
+|-|-|-|-|-|-|-|-|
+|-128|64|32|16|8|4|2|1|
+
+last bit as a sign = a minus sign
+
+- 11111111 = 
+    - 255 (1's Complement (Unsigned Binary))
+    - -1 (2's Complement(Signed Binary))
+
+# Importance of bits order
+### First bit = least significant bit
+### last bit = most significant bit
+
+Overflow can occurs every everywhere
+
+# Signed Limits
+
+Minimum and maximul values of signed binary = -2<sup>n-1</sup> and 2<sup>n-1</sup> - 1
+
+# Signed Binary Arithmetic: Subtraction
+
+To substarct one signed binary number from another = must use Two's Complement; **flip the bits** (i.e dwitch from 0 to 1, and vice versa) and add 1, then perform addition.
+
+7 - 5 = 7 + -5 = 00000111 - 00000101 = 00000111 + 11111011
+
+|5|00000101|
+|-|-|
+|-6|11111010|
+|+|00000001|
+|-5|11111011|
