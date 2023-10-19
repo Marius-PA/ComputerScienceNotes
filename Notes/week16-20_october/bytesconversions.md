@@ -191,3 +191,32 @@ exemple = 1001.0110
 |-8|0|0|1|.|0|0.25|0.125|0|
 
 -8 + 1 + 0.25 + 0.125 = **-7.375**
+
+---
+
+# 19/10/2023
+
+# Learning Objectives
+
+- Differentiate between:
+    - character code representation of a decimal digit and its pure binary representation
+
+- Describe:
+    - ASCII
+    - Unicode
+        - coding systems for coding character data and explain how it works
+
+# ASCII
+
+ASCII stands for the American Standard Code for Information Interchange, which is a character encoding standard from 1963
+
+### Why was unicode introduced
+
+- we needed international communication
+- increase in international communication
+- needed to accept more than English
+
+## UTF
+
+- UTF-8 = ASCII
+- UTF-16 = Unicode
