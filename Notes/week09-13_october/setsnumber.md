@@ -55,7 +55,8 @@ Be familiar with the concept of a rational number and the set ℚ of rational nu
 
 # irrational Numbers
 
-An irrational number is
+- An irrational number is a real number that can NOT be made by dividing two integers
+- A number that cannot be expressed as a fraction p/q for any integers p and q.
 
 # Real numbers
 
