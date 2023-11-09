@@ -57,12 +57,12 @@ mindmap
     Error Checking
         Process of detecting errors
             different methods
-                ))Parity bits((
+                id))Parity bits((
                     an additional least or most <br> significant bit that is <br> used to detect errors
                         Checking wether the summation <br> of 1s, including the <br> parity bit, is odd or even
-                ))Majority Voting((
-                ))Checksums((
-                ))Check Digits((
+                id))Majority Voting((
+                id))Checksums((
+                id))Check Digits((
 
 ```
 
