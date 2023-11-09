@@ -78,11 +78,7 @@ mindmap
                         much quicker data transmission, less time and space needed
                     disadvantage
                         can only detects errors, not correct them
-                Majority Voting
-                    advantage
-                        detect but also correct (most) errors that occur during data transmission
-                    disadvantage
-                        data is being tripled to check, so much slower and takes much longer
+                
             
 ```
 
