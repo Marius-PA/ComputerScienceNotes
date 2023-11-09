@@ -46,17 +46,14 @@ Q2. Explain how to convert decimal digit characters into their corresponding dec
 ```mermaid
 mindmap
   root((Data <br >Transmissions))
-    Origins
-      Long history
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
+    Data
+        transference of data <br> analog or digital
+            error checking is used
+        from one device to another
+    Errors
+        May occur if <br> electromagnetic interference
+            can cause bits to flip
+                Data integrity is <br> NOT maintained
     Tools
       Pen and paper
       Mermaid
