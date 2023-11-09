@@ -43,6 +43,27 @@ timeline
 Q2. Explain how to convert decimal digit characters into their corresponding decimal value as binary:
 - decimal character and decimal value = you need to -48
 
+```mermaid
+mindmap
+  root((mindmap))
+    Origins
+      Long history
+      ::icon(fa fa-book)
+      Popularisation
+        British popular psychology author Tony Buzan
+    Research
+      On effectiveness<br/>and features
+      On Automatic creation
+        Uses
+            Creative techniques
+            Strategic planning
+            Argument mapping
+    Tools
+      Pen and paper
+      Mermaid
+
+```
+
 # Transmissions
 
 ## Data
