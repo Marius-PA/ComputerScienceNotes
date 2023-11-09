@@ -69,8 +69,9 @@ timeline
 ```mermaid
 timeline
     title Character Encoding
-        Ascii : published in 1963 : A character encoding standard, using 7 bit and only supporting English alphabet
-        Internal Communication: implement all other languages : for not being forced to only using English for communication
+            section Ascii
+                Ascii : published in 1963 : A character encoding standard, using 7 bit and only supporting English alphabet
+                Internal Communication: implement all other languages : for not being forced to only using English for communication
             section Unicode
                 Unicode : introduced in 1991 : splits into blocks : blocks = set of related characters : defines up to 32 bits
                 Unicode Transformation Formats (UTF) : UTF is a variable-length character encoding standard : UTF-8 (1 byte) <br> UTF-16 (2 bytes) <br> UTF-32 (4 bytes)
