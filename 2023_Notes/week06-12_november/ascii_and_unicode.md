@@ -59,6 +59,11 @@ mindmap
             different methods
                 id))Parity bits((
                     id))Parity Bits VS Majorty Voting((
+                        Party Bits
+                            advantage
+                                much quicker data transmission, less time and space needed
+                            disadvantage
+                                can only detects errors, not correct them
                         
                     an additional least or most <br> significant bit that is <br> used to detect errors
                         Checking wether the summation <br> of 1s, including the <br> parity bit, is odd or even
