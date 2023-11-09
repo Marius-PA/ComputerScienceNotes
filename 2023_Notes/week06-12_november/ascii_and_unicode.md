@@ -139,3 +139,31 @@ Here, the 000 has majorities of 0s = 0 for the bit
         - detect but also correct (most) errors that occur during data transmission
     - disadvantage:
         - data is being tripled to check, so much slower and takes much longer
+
+### Checksums
+
+1. Another way to detect erros
+2. checksums is the result of applying an algorithm to a block of data
+3. sent alongside to be checked after transmission
+
+Adding an extra BYTE
+
+### Check Digits
+
+A check digit is a form of redundancy check used for error detection on identification numbers
+
+- identify a product (e.g. an international standard book number (ISBN) or a barcode) or verify a user
+    - main purpose of check digits is to recognise and prevent human errors when entering or assigning identification numbers
+
+### Main points:
+
+- Check digits are ***extra digits placed at the beginning or end of a number to identify a product or verify a user.***
+
+- The purpose of check digits is to ***prevent human errors when entering or assigning identification numbers.***
+
+- Check digits are ***calculated using algorithms that involve modulo arithmetic.***
+
+Exemples:
+
+- The ISBN-10 code of a book includes a check digit that is calculated to ensure that the code is valid.
+    - The system will perform a calculation to verify that the ISBN was entered correctly and notify the user accordingly.
