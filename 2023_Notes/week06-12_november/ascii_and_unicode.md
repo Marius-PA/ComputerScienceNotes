@@ -59,8 +59,9 @@ timeline
                         : represent numbers in the binary system
         section Charatcer Encoding
                         Binary : used to represent charachters
-                        quotation : charachters are denoted by single quotation mark ''
-                                  : String are denoted by double quotation ""
+                        quotation : charachters are denoted by single quotation mark 'a'
+                                  : String are denoted by double quotation "hello"
+                        Characters vs Numbers : decimal digit differ from binary value assigned to it : 0 != '0'
 
 ```
 
@@ -126,7 +127,13 @@ Here, the 000 has majorities of 0s = 0 for the bit
 # Parity Bits VS Majorty Voting
 
 - Party Bits:
-    - can only detects errors
+    - advantage:
+        - can only detects errors
+    - disadvantage:
+        - much quicker data transmission, less time and space needed
 
 - Majority Voting:
-    - detect but also correct (most) errors that occur during data transmission
+    - advantage:
+        - detect but also correct (most) errors that occur during data transmission
+    - disadvantage:
+        - data is being tripled to check, so much slower and takes much longer
