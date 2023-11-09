@@ -61,7 +61,9 @@ timeline
                         Binary : used to represent charachters
                         quotation : charachters are denoted by single quotation mark 'a'
                                   : String are denoted by double quotation "hello"
-                        Characters vs Numbers : decimal digit differ from binary value assigned to it : 0 != '0'
+                        Characters vs Numbers : decimal digit differ from binary value  assigned to it : 0 != '0'
+                        Character Code : A unique number that represents a character : character code 65 represents the character 'A' in the ASCII and Unicode standards
+    Ascii : published in 1963 : A character encoding standard, using 7 bit and only supporting English alphabet
 
 ```
 
