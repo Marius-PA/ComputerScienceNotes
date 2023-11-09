@@ -83,8 +83,7 @@ mindmap
                         detect but also correct (most) errors that occur during data transmission
                     disadvantage
                         data is being tripled to check, so much slower and takes much longer
-            an additional least or most <br> significant bit that is <br> used to detect errors
-            Checking wether the summation <br> of 1s, including the <br> parity bit, is odd or even
+            
 ```
 
 # Transmissions
