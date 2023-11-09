@@ -54,15 +54,15 @@ A character is represented by a string that consists of only that character
 ```mermaid
 timeline
     title Ascii and Unicode fundamentals
-    section encoding
-        Number encoding : unisgned, signed, fixed-point binary
-                        : represent numbers in the binary system
-        section Charatcer Encoding
-                        Binary : used to represent charachters
-                        quotation : charachters are denoted by single quotation mark 'a'
-                                  : String are denoted by double quotation "hello"
-                        Characters vs Numbers : decimal digit differ from binary value  assigned to it : 0 != '0'
-                        Character Code : A unique number that represents a character : character code 65 represents the character 'A' in the ASCII and Unicode standards
+        section encoding
+            Number encoding : unisgned, signed, fixed-point binary
+                            : represent numbers in the binary system
+            section Charatcer Encoding
+                            Binary : used to represent charachters
+                            quotation : charachters are denoted by single quotation mark 'a'
+                                    : String are denoted by double quotation "hello"
+                            Characters vs Numbers : decimal digit differ from binary value  assigned to it : 0 != '0'
+                            Character Code : A unique number that represents a character : character code 65 represents the character 'A' in the ASCII and Unicode standards
     Ascii : published in 1963 : A character encoding standard, using 7 bit and only supporting English alphabet
 
 ```
