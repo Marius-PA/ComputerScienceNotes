@@ -117,6 +117,7 @@ error checking is used to ensure data transmission
     - each bit is deduced based on the majority of 0s and 1s
 
 |000|001|010|011|100|101|110|111|
+|-|-|-|-|-|-|-|-|
 |0|0|0|1|0|1|1|1|
 
 Here, the 000 has majorities of 0s = 0 for the bit
