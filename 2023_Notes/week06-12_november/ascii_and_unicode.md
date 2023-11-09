@@ -124,3 +124,9 @@ Here, the 000 has majorities of 0s = 0 for the bit
 011 has majorities of 1s = 1 for the bit
 
 # Parity Bits VS Majorty Voting
+
+- Party Bits:
+    - can only detects errors
+
+- Majority Voting:
+    - detect but also correct (most) errors that occur during data transmission
