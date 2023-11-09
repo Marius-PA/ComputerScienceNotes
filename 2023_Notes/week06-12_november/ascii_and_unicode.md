@@ -68,23 +68,6 @@ mindmap
 
 ```
 
-```mermaid
-mindmap
-    root((Process of <br> detecting errors))
-        id))Parity bits((
-            id))Parity Bits VS Majorty Voting((
-                Party Bits
-                    advantage
-                        much quicker data transmission, less time and space needed
-                    disadvantage
-                        can only detects errors, not correct them
-                Majority Voting
-                    advantage
-                        detect and correct (most) errors
-                    
-            
-```
-
 # Transmissions
 
 ## Data
