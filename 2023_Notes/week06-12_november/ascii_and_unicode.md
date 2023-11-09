@@ -49,14 +49,20 @@ mindmap
     Data
         transference of data <br> analog or digital
             error checking is used
-        from one device to another
+            from one device to another
     Errors
         May occur if <br> electromagnetic interference
             can cause bits to flip
                 Data integrity is <br> NOT maintained
-    Tools
-      Pen and paper
-      Mermaid
+    Error Checking
+        Process of detecting errors
+            different methods
+                Parity bits
+                    an additional least or most <br> significant bit that is <br> used to detect errors
+                        Checking wether the summation <br> of 1s, including the <br> parity bit, is odd or even
+                Majority Voting
+                Checksums
+                Check Digits
 
 ```
 
