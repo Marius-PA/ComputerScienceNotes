@@ -72,4 +72,54 @@ timeline
 
 2. Ordinal is the order within a sequence (i.g an index)
 
+---
 
+# 09/11/23
+
+Q2. Explain how to convert decimal digit characters into their corresponding decimal value as binary:
+- decimal character and decimal value = you need to -48
+
+# Transmissions
+
+## Data
+
+Data transmission = transference of data, analog or digital
+
+from one device to another
+
+error checking is used to ensure data transmission
+
+## Errors
+
+- May occur if electromagnetic interference:
+    - can cause bits to flip:
+        - Data integrity is NOT maintained
+
+## Error Checking
+
+- Process of detecting errors:
+    - different methods:
+        - Parity bits
+        - Majority Voting
+        - Checksums
+        - Check Digits
+
+### Parity Bits
+
+- Parity bit = an additional least or most significant bit that is used to detect errors
+    - How:
+        - By Checking wether the summation of 1s, including the parity bit, is odd or even
+        - way of checking wether or not there is an even or odd number in the binary
+
+# Majority Voting
+
+- Each bit is duplicated an odd number of times before transmission
+    - each bit is deduced based on the majority of 0s and 1s
+
+|000|001|010|011|100|101|110|111|
+|0|0|0|1|0|1|1|1|
+
+Here, the 000 has majorities of 0s = 0 for the bit
+011 has majorities of 1s = 1 for the bit
+
+# Parity Bits VS Majorty Voting
