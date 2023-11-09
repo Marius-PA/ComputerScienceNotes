@@ -45,10 +45,12 @@ Q2. Explain how to convert decimal digit characters into their corresponding dec
 
 ```mermaid
 mindmap
-  root((jaaj))
+  root((Data Transmissions))
     Origins
       Long history
       Popularisation
+        enfaite non
+      jooj
         British popular psychology author Tony Buzan
     Research
       On effectiveness<br/>and features
