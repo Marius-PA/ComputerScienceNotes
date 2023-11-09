@@ -80,8 +80,6 @@ mindmap
                         can only detects errors, not correct them
                 Majority Voting
                     advantage
-                        detect but also correct (most) errors 
-                            that occur during data transmission
                     
             
 ```
