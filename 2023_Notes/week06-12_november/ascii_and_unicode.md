@@ -80,7 +80,7 @@ mindmap
                         can only detects errors, not correct them
                 Majority Voting
                     advantage
-                        rt
+                        detect but also correct (most) errors that occur during data transmission
                     
             
 ```
