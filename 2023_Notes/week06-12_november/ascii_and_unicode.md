@@ -45,6 +45,7 @@ Q2. Explain how to convert decimal digit characters into their corresponding dec
 
 ```mermaid
 mindmap
+  root((mindmap))
     Origins
       Long history
       Popularisation
