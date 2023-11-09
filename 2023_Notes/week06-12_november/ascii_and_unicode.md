@@ -71,9 +71,10 @@ timeline
     title Character Encoding
             section Ascii
                 Ascii : published in 1963 : A character encoding standard, using 7 bit and only supporting English alphabet
-                Internal Communication: implement all other languages : for not being forced to only using English for communication
+                Capacity : only supports 128 character
             section Unicode
                 Unicode : introduced in 1991 : splits into blocks : blocks = set of related characters : defines up to 32 bits
+                Internal Communication : implement all other languages : for not being forced to only using English for communication
                 Unicode Transformation Formats (UTF) : UTF is a variable-length character encoding standard : UTF-8 (1 byte) <br> UTF-16 (2 bytes) <br> UTF-32 (4 bytes)
             section python
                 Characters and Strings : Python DOES NOT support the character data type : A character is represented by a string that consists of only that character
