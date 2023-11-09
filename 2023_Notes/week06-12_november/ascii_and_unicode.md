@@ -80,7 +80,7 @@ mindmap
                         can only detects errors, not correct them
                 Majority Voting
                     advantage
-                        detect but also correct (most) <br> errors that
+                        detect but also correct
                     
             
 ```
