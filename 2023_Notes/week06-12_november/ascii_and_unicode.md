@@ -58,6 +58,20 @@ mindmap
         Process of detecting errors
             different methods
                 id))Parity bits((
+                id))Majority Voting((
+                        Each bit is duplicated an odd number of times before transmission
+                            each bit is deduced based on the majority of 0s and 1s
+                                000 has majorities of 0s = 0
+                                011 has majorities of 1s = 1
+                id))Checksums((
+                id))Check Digits((
+
+```
+
+```mermaid
+mindmap
+    root((Process of <br> detecting errors))
+    id))Parity bits((
                     id))Parity Bits VS Majorty Voting((
                         Party Bits
                             advantage
@@ -71,14 +85,6 @@ mindmap
                                 data is being tripled to check, so much slower and takes much longer
                     an additional least or most <br> significant bit that is <br> used to detect errors
                         Checking wether the summation <br> of 1s, including the <br> parity bit, is odd or even
-                id))Majority Voting((
-                        Each bit is duplicated an odd number of times before transmission
-                            each bit is deduced based on the majority of 0s and 1s
-                                000 has majorities of 0s = 0
-                                011 has majorities of 1s = 1
-                id))Checksums((
-                id))Check Digits((
-
 ```
 
 # Transmissions
