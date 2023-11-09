@@ -80,6 +80,7 @@ mindmap
                         can only detects errors, not correct them
                 Majority Voting
                     advantage
+                        rt
                     
             
 ```
