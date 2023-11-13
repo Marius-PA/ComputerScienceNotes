@@ -117,9 +117,9 @@ Here, the 000 has majorities of 0s = 0 for the bit
 
 - Party Bits:
     - advantage:
-        - can only detects errors
-    - disadvantage:
         - much quicker data transmission, less time and space needed
+    - disadvantage:
+        - can only detects errors and not correct them
 
 - Majority Voting:
     - advantage:
