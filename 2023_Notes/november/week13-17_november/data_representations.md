@@ -61,3 +61,9 @@ mindmap
 Analogue Data = converted into an electrical analogue signal, then into digital data to be processed by computers, continuous data to discrete signals
 
 ![AnalogAndDigital](img/analoganddigital.png)
+
+# Analog To Digital Converter (ADC)
+
+An ADC = converts an analogue signal into digital data by measuring ***samples***, at regular ***intervals***, which are ***quantised***
+
+Important words: samples, intervals, quantised
