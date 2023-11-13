@@ -64,6 +64,18 @@ Analogue Data = converted into an electrical analogue signal, then into digital 
 
 # Analog To Digital Converter (ADC)
 
-An ADC = converts an analogue signal into digital data by measuring ***samples***, at regular ***intervals***, which are ***quantised***
+An ADC = converts an analogue signal into digital data by measuring ***samples***, at regular ***intervals***, which are ***quantised*** and encoded as ***binary values***
 
 Important words: samples, intervals, quantised
+
+Questions: principales opperations of an ADC.
+
+### any discrete value can be represented in binary
+
+Approximation is more precise with more bits as there is more steps
+
+vaoltage is going to fluctuate all the time
+
+# Digital To Analog Converter (DAC)
+
+https://isaaccomputerscience.org/concepts/data_rep_analogue_digital?examBoard=aqa&stage=a_level
