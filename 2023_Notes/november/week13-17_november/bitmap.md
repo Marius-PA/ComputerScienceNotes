@@ -2,7 +2,7 @@
 
 # Pixel
 
-<strong>pixel is the smallest addressable unit of an image</strong>
+### pixel is the smallest addressable unit of an image
 
 a pixel is a representative bit of a coresponding colour
 
