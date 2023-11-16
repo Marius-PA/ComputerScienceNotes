@@ -1,5 +1,9 @@
 # 14/11/23
 
+# Bitmap
+
+bitmap = ***a representation*** in which each item corresponds to one or more bits of information, especially the information used to control the display of a computer screen.
+
 # Pixel
 
 ### pixel is the smallest addressable unit of an image
@@ -96,3 +100,30 @@ Q2. the resolution is (dots/inch) pixel/inch or per centimeters, it can also be 
 Q3. 5 state
 
 colour depth = 3
+
+Ex2:
+
+Q1. 320 * 240 * 2/1000 = n
+
+153.6 kilobits
+
+156.6/8 = 19.2 kilobytes
+
+Q2. 
+
+500000*8 = 4 000 000
+
+n2 * 4 = 4 000 000
+n = sqrt(4 000 000/4)
+
+1000 width and height pixels
+
+Q3. 
+
+360000*8 = 2 880 000
+
+800 * 600 * n = 2 880 000
+
+2 880 000 / 800 * 600 = n
+
+n = 6
