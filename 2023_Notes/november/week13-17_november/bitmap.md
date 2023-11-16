@@ -4,9 +4,19 @@
 
 ### pixel is the smallest addressable unit of an image
 
-a pixel is a representative bit of a coresponding colour
+a pixel is a representative of a bit coresponding a colour or level of brightness
 
 # Colour Depth
+
+***the number of bits used to store each pixel*** NOT the number of COLOURS
+
+- colour depth = 8
+
+- different colour = 256 
+
+- BECAUSE 2<sup>8</sup> = 256
+
+---
 
 colour depht = 2
 
@@ -18,7 +28,15 @@ i.g = 2 bits can represent 4 colours
 
 # Resolution
 
+***Dots per inch/cm/unit*** where a dot is a pixel
+
+Resolution most of a time REFERS OF ITS ***width by height*** in pixels
+
 doesn't only mean width and height, BUT ALSO ppi
+
+### For exams
+
+Resolution = ***Dots per inch/cm/unit***,  ***width by height*** in pixels
 
 # Calculating bitmap file size
 
@@ -47,6 +65,10 @@ Data about the data
     - Portable Network Graphics (.png)
     - Scalable Vector Graphics (.svg)
 
+# Storage Requirements
+
+metadata + width * height * depth = bits
+
 ---
 
 # Learning objectives
@@ -62,3 +84,15 @@ Data about the data
     - bitmap image may also contain metadata
 
 - Being familiar with typical metadata
+
+---
+
+exercice:
+
+Q1. smallest addressable unit of an image
+
+Q2. the resolution is (dots/inch) pixel/inch or per centimeters, it can also be the width and height in term of pixels
+
+Q3. 5 state
+
+colour depth = 3
