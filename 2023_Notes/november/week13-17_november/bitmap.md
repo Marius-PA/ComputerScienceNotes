@@ -2,9 +2,7 @@
 
 # Pixel
 
-pixel is a smallest part of a image
-
-***pixel is the smallest addressable part of an image***
+<strong>pixel is the smallest addressable unit of an image</strong>
 
 a pixel is a representative bit of a coresponding colour
 
@@ -40,3 +38,27 @@ Data about the data
 - Geographical location of creation
 - Details about the device used to create the - image
 - Camera settings
+
+# Image formats
+
+- comparing file formats:
+    - bitmaps (.bmp)
+    - Graphic Interchange Format (.gif)
+    - Portable Network Graphics (.png)
+    - Scalable Vector Graphics (.svg)
+
+---
+
+# Learning objectives
+
+- Explain:
+    - how bitmaps are represented
+        - resolution
+        - colour depth
+        - size in pixels
+
+- calculate:
+    - storage requirement for bitmapped images
+    - bitmap image may also contain metadata
+
+- Being familiar with typical metadata

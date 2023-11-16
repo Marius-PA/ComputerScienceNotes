@@ -79,3 +79,13 @@ vaoltage is going to fluctuate all the time
 # Digital To Analog Converter (DAC)
 
 https://isaaccomputerscience.org/concepts/data_rep_analogue_digital?examBoard=aqa&stage=a_level
+
+---
+
+# 16/11/2023
+
+11,01,10,00,10,10,00,11
+
+11001000100111
+
+binaries goes from right to left
