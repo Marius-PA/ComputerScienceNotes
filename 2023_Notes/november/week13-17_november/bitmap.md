@@ -127,3 +127,15 @@ Q3.
 2 880 000 / 800 * 600 = n
 
 n = 6
+
+---
+
+# Test topic 
+
+- Number Systems
+- Number Bases
+- Units of information
+- binary number system *
+- informaton coding systems 
+- analogue vs Digital
+- bitmap graphics
