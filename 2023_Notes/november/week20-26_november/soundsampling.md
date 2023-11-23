@@ -21,4 +21,14 @@ How many bits, what speed to get the best representation of a signal
 
 # Resolution sampling
 
+---
 
+Q1. analogue is continuous, infinite presicion
+
+digital is discrete, finite amount of steps (final precision)
+
+Q2. sampling twice the speed amount that reaches the two highest points
+
+Q3. 16-bit sample, 10 000 Hz, 20 seconds, kilobytes
+
+16 x 10 000 x 20 / 8000 = 400
