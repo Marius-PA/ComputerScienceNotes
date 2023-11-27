@@ -72,3 +72,34 @@ Lossy = loss of data during Decompression
     - MP4: video
         - grouping together similar patterns
         - always results in loss of data
+
+---
+
+# Compression Techniques
+
+- BOTH TECHNIQUE ARE LOSSLESS
+
+## Run Length Encoding (RLE)
+
+RLE is lossless
+
+***run-repeating patterns are replaced with a single instance alongside its frequency (i.e, count)***
+
+Exemple:
+
+    BOOKKEEPER = B1,O2,K2,E2,P1,E1,R1
+
+## Dictionary-Based
+
+Lossless technique
+
+***patterns are replaced with a corresponding key (i.e unique identifier) for a dictionary***
+
+    TO BE OR NOT TO BE = 00,01,10,11,00,01
+
+    4 difference words, so 2 bits
+
+- TO = 00
+- BE = 01
+- OR = 10
+- NOT = 11
