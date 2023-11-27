@@ -55,3 +55,7 @@ MIDI and MP3 are COMPLETLY different
 - advantages:
     - takes much less storage
     - performance data can be easily manipulated
+
+- disadvantages:
+    - Higher cost and requires skill to edit
+    - doesn't sound realistic
