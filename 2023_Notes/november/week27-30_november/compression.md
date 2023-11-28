@@ -103,3 +103,9 @@ Lossless technique
 - BE = 01
 - OR = 10
 - NOT = 11
+
+---
+
+## Exercice:
+
+Q1. reduce the ( file size) storage capacity of a file (or folder)
