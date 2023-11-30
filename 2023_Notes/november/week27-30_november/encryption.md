@@ -18,7 +18,7 @@ tool used to perform a transposition cipher
     - not be able to take back what they sent
 
 - confidentiality
-    - unauthorised person
+    - restrict access unauthorised person
     - ensuring you only give access to the authorised persons
 
 - data integrity
@@ -29,9 +29,9 @@ tool used to perform a transposition cipher
 
 # Encryption
 
-Encryption = converting a plaintext-encoded message into ciphertext, using a cipher algorithm
+Encryption = ***the process converting a plaintext-encoded message into ciphertext, using a cipher algorithm with a key***
 
-***obfustation*** = making a text not readable for human
+***obfustation of data*** = making a text not human readable
 
 ### Key terminology
 
@@ -49,7 +49,7 @@ Encryption = converting a plaintext-encoded message into ciphertext, using a cip
 
 # Decryption
 
-Decryption = process of converting a message into plaintext, human readable
+Decryption = ***process of converting a ciphertext-encoded message into plaintext using a cipher algorithm with a key to make it human readable***
 
 unencryption = DOESN'T EXIST
 
@@ -65,6 +65,9 @@ unencryption = DOESN'T EXIST
 Symmetric cipher = the same key is used for both encryption and decryption
 
 Asymmetric cipher = uses different keys for encryption and decryption, public and private key
+
+- public key = encryption
+- private key = decryption
 
 # Caesar Cipher
 
