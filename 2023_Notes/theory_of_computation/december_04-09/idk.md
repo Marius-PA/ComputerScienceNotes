@@ -1,4 +1,5 @@
 
+# 08/12/23
 
 - Abstraction
     - remove unnecessary details
@@ -31,4 +32,10 @@
 
 - Zero-knowledge proof
     - when someone doesn't know something it can actually give knowledge
-    - "I don't know", still giving information by process of elemination
+    - "I don't know", still giving information by process of elimination
+
+# Problems
+
+- Original problem
+- subproblems
+- detailed subproblems
