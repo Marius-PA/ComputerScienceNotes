@@ -46,3 +46,7 @@
         - words = token (i.e "if" statement in python is a token)
     - e.g English
         - the dictionary
+        
+
+### finite state machines can only be in one state at a time
+
