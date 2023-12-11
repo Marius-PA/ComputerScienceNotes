@@ -1,6 +1,8 @@
 
 # 11/12/23
 
+https://adacomputerscience.org/concepts/machines_fsm?examBoard=aqa&stage=a_level&topic=machines_with_memory
+
 # terminology
 
 - procedural abstraction:
@@ -50,3 +52,29 @@
 
 ### finite state machines can only be in one state at a time
 
+## diagrams
+
+- terminology
+    - state
+    - start state
+    - transition with a labelled input
+    - accepting state
+
+---
+
+Vending machine exemple:
+
+- 1st step:
+    - the alphabet : {5p,10p,20p}
+    - if inputs are reaching the accepting state
+        - then the inputs are valid
+- from 1 state to another, you can't have duplicates
+
+---
+
+Exemple:
+
+![statemachines](img/statemachines.png)
+
+- description
+    - it either stars with a 0 or 1 or more 1s
