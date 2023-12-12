@@ -5,6 +5,15 @@ https://adacomputerscience.org/concepts/machines_fsm?examBoard=aqa&stage=a_level
 
 # terminology
 
+---
+
+- the 3 state of computation:
+    - sequencial
+    - functional
+    - concurrency
+
+---
+
 - procedural abstraction:
     - computational method
     - 
@@ -52,7 +61,7 @@ https://adacomputerscience.org/concepts/machines_fsm?examBoard=aqa&stage=a_level
 
 ### finite state machines can only be in one state at a time
 
-## diagrams
+## graph
 
 - terminology
     - state
@@ -60,6 +69,16 @@ https://adacomputerscience.org/concepts/machines_fsm?examBoard=aqa&stage=a_level
     - accepting state
         - has to end on the accepted state to be valid
     - transition with a labelled input
+
+---
+
+- verticies or nodes
+
+- straight line:
+    - an edge
+- curved line:
+    - arc
+
 
 ---
 
