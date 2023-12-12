@@ -81,11 +81,20 @@ https://adacomputerscience.org/concepts/machines_fsm?examBoard=aqa&stage=a_level
 
 ---
 
-### tables
+# tables
+
+![tables](img/example.png)
+
+- valid input contains zero or more
 
 |current|in|next|
 |-|-|-|
 |S0|0|S1|
+|S0|1|S2|
+|S1|1|S2|
+|S2|0|S2|
+
+---
 
 Vending machine exemple:
 
