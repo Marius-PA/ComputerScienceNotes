@@ -57,8 +57,9 @@ https://adacomputerscience.org/concepts/machines_fsm?examBoard=aqa&stage=a_level
 - terminology
     - state
     - start state
-    - transition with a labelled input
     - accepting state
+        - has to end on the accepted state to be valid
+    - transition with a labelled input
 
 ---
 
