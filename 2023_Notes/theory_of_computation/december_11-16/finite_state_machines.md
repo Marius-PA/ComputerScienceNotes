@@ -79,8 +79,13 @@ https://adacomputerscience.org/concepts/machines_fsm?examBoard=aqa&stage=a_level
 - curved line:
     - arc
 
-
 ---
+
+### tables
+
+|current|in|next|
+|-|-|-|
+|S0|0|S1|
 
 Vending machine exemple:
 
