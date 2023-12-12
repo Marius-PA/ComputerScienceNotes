@@ -83,7 +83,7 @@ https://adacomputerscience.org/concepts/machines_fsm?examBoard=aqa&stage=a_level
 
 # tables
 
-![tables](img/example.png)
+![tables](img/exemple.png)
 
 - valid input contains zero or more
 
