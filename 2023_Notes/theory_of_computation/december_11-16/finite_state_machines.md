@@ -113,3 +113,11 @@ Exemple:
 - description
     - it either stars with a 0 or 1 or more 1s
     - the alphabet of this finite state machine = {0,1}
+
+
+---
+
+### infinite inavlid loops
+
+- what is the purpose of this state ?:
+    - to catch invalid inputs
