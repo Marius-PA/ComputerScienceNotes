@@ -70,3 +70,6 @@ Cable = often coutains multiple wires whitin the cable, has protection
         - idle = dormant
         - The START signal should be the OPPOSITE of the STOP signal
 
+
+
+write a function wether a number is a prime or not
