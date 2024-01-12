@@ -115,6 +115,8 @@ Bit rate = MAY be higher than the baud rate if signal change CONSISTS of more th
 
 Baseband = signals = one of two levels (high or low voltage), each representing a binary value
 
+- two types of signal, each signal is representing a binary value
+
 # Broadband
 
 Supports more than two different signal levels (there are multiple frequency bands or voltage levels), so every signal change can represent more than one bit. In this case, a symbol can encode 2, 4, or 8 (etc.) bits.
@@ -150,3 +152,77 @@ Supports more than two different signal levels (there are multiple frequency ban
         - synchronous or asynchronous
         - bit rate and/or baud rate
         - error checking (e.g parity bits or majority voting)
+
+
+---
+
+# 12/01/24
+
+# Networking
+
+## Learning objectives
+
+- Undertand:
+    - physical star topology
+    - logical bus network topology
+
+
+## MAC
+
+- Devices within a network has a Net Interface Controller (NIC)
+    - has hardcoded MAC (Media Access Control)
+        - Address that is globally unique per network device
+
+### Topology
+
+- bus
+- star
+
+# Physical Vs Logical
+
+- The physical topology of a network
+    - physical connections between devices
+
+- logical topology
+    - communication protocol
+
+## Bus
+
+https://adacomputerscience.org/concepts/network_topologies?examBoard=aqa&stage=a_level
+
+- backbone:
+    - one cable that connects every device
+
+- True broadcasting:
+    - transmit to every device in a network at the same time
+
+- Terminator:
+    - absorbs the signals when they reach the end, to prevent interference.
+
+### Issues of Bus
+
+- Collisions
+    - If two (or more) devices try to transmit at the same time, it will cause a collision, i.e. the signals will interfere with each other.
+        - If a collision occurs, the devices must stop and try again later.
+
+- Security
+    - every device attached to the bus can "read" every message, unless the messages are encrypted.
+
+---
+
+## Star
+
+- each device on the network is connected to a central communication device, such as a Hub or a Switch
+    - hub:
+        - REPEAT ALL THE SIGNALS TO ALL OTHER DEVICES
+        - network signals that reach the hub are sent out to all connected devices
+        - The hub does not process the signals that pass through it
+    - switch:
+        - KNOWS WHERE TO GO, DOESN'T REPEAT SIGNALS TO ALL DEVICE, ONLY TO THE DESTINATED DEVICE
+        - uses a table that maps each device to the port it is connected to
+        - used for security
+        - Filter the messages
+
+- Security/speed vastly improved
+- reliability
+    - The switch or hub is a central point of failure
