@@ -65,3 +65,111 @@ email suing client-servers
 # client-server / P2P
 
 Centralized and decentralized
+
+---
+
+# 16/01/24
+
+# starter
+
+- PAN
+    - Personal Area Network
+- LAN
+    - Local Area Network
+- WAN
+    - Wide Area Network
+
+# Learning Objectives
+
+- Explain the:
+    - purpose of WiFi
+    - the wireless protocol Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA) with and without request to Send/Clear to Send (RTS/CTS).
+- Be familiar with
+    - the components required for wireless networking
+    - how wirless networks are secured
+    - the purpose of Service Set Identifier (SSID)
+
+---
+
+# Wired vs Wireless
+
+- Wired:
+    - signals are electrical volatges
+
+- Wireless:
+    - signals are radio waves
+
+The type of 'channel'
+
+# Why WiFi ?
+
+- WiFi:
+    - international standard for communication
+        - wireless local area networks
+        - is a protocol for wireless
+            - enable devices to connect to a network wirelessly
+
+
+## Frequency band
+
+Most WLAN devices will be dual-band
+
+- 2.4Ghz
+    - general industrual use
+    - has a better range
+- 5.0Ghz
+    - less congested
+    - less trafic
+    - better performance
+
+### Channels
+
+- In frequencies
+    - smaller bands known as "channels"
+
+---
+
+# Networking Devices
+
+- Network Interface Controllers (NICs)
+    - has a MAC address
+
+- Hubs and Switches
+    - hub = broacasting
+    - switches = only give the packets to the destinated device
+
+- Wireless Access Points (WAPs)
+    - operating on radio waves
+    - allow wireless devices to connect to a local network
+
+- Modulator/Demodulator (Modems)
+    - (combination of modulator/demodulator)
+    - change the signal so that it can be sent through a cable that uses a different technology.
+    - the meeting point
+    - receive wireless and converts it as voltages in the cables
+
+- Routeurs
+    - Where communication happens between two separate networks, a router is required
+    - same as switch
+    - distribute ips to MAC addresses
+    - routers reroutes data packets towards/closer to their destinations
+
+- Network Access Devices
+    - typically contain a wireless access point (WAP), a router, a modem, and a switch.
+    - connect home devices to the internet
+    
+- Gateways
+    - a device that is used to allow the transmission of data between dissimilar networks
+    - convert the protocols
+
+Switch = DHCP server ?
+
+# Security
+
+- WPA, WPA2 (WiFi Protected Access)
+
+- SSID (Service Set Identifier) broascast disabled
+    - an alphanumerical string used to identify a network
+
+- MAC (Media Access Control) address allow list
+
