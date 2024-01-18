@@ -214,8 +214,16 @@ Switch = DHCP server ?
 
 - Once the channel is free, the data is sent.
 
-
 ## Hidden node problem
+
+- interferes with the data transmission.
+- two devices within range of a commun wireless device
+- not within range of each other
+- not aware the other person is connected to the network
+- might send data at the same time, causing collisions
+
+- 3 devices, two of which are not within range of each other but there are within range of the common third
+
 
 # Request to Send/Clear to Send (RTS/CTS)
 
@@ -226,3 +234,5 @@ Switch = DHCP server ?
 
 - Once the channel is determined to be idle, a signal is sent called Request to Send (RTS).
 - The answering device then sends a Clear to Send (CTS) reply
+
+---
