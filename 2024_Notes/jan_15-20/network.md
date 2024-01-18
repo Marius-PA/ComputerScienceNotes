@@ -166,10 +166,63 @@ Switch = DHCP server ?
 
 # Security
 
-- WPA, WPA2 (WiFi Protected Access)
+- WEP (Wired Equivalent Privacy)
+    - same security as a wired network
+    - symmetric encryption algorithm
+
+    - WEP keys:
+        - too short
+        - used for too long
+- WPA
+    - temporary improvement to WEP
+    - introduced key management
+    - new ecryption key for each data packet
+
+- WPA2 (WiFi Protected Access)
+    - improvement on WPA
+    - each message is encrypted several times
 
 - SSID (Service Set Identifier) broascast disabled
     - an alphanumerical string used to identify a network
 
 - MAC (Media Access Control) address allow list
 
+---
+
+# 18/01/24
+
+# Wireless network (advanced)
+
+# CSMA/CS protocol
+
+- makes sure that network collisions are avoided.
+
+## Carrier-sense
+
+- steps:
+    - listen to the channel to check for the presence of any other signals
+    - decision is made whether to send the message or to try again
+
+
+## Collision avoidance
+
+- the node — an end device
+    - either sending or receiving data across the network
+- wait for a period of time before trying again. Typically, this is a random time within a range.
+
+## Transmission
+
+- Once the channel is free, the data is sent.
+
+
+## Hidden node problem
+
+# Request to Send/Clear to Send (RTS/CTS)
+
+![diagram](https://adacomputerscience.org/images/content/computer_science/computer_networks/networking/figures/ada_cs_network_chart_wireless.svg)
+
+- an optional method
+    - alleviates the problem of hidden nodes
+
+- Once the channel is determined to be idle, a signal is sent called Request to Send (RTS).
+- The answering device then sends a Clear to Send (CTS) reply
