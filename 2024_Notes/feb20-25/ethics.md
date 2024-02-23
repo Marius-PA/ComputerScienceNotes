@@ -18,7 +18,6 @@ https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-
     - machines producing a lot of heat
 - government centralization of currency
 
-
 ---
 
 
