@@ -4,19 +4,66 @@ https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-
 
 # GDPR and COPYRIGHT
 
+# At least seven points
+# ethical can be linked to cultural
+# Who uses it and where ?
+- different countries have different laws about 
+
 # Case study
 
+compagny, exchange, creating currency, problems they faced
+
+What are the moral, ethical, legal and cultural aspects of Cryptocurrencies
+
+uses as exemple : Bitcoin
+
+# moral
+
+- impact
+    - individuals
+        - not trusted
+            - not historically tested
+            - volatile / volatility
+    - companies
+
+# ethical
+
+## security
+
+- blockchain
+
+- buzzword
+- invest into something not tested and trusted
+
+- not monitered
+- impact it had
 - not under the same regulations
 - traded in any moment
-- not stable / 
+- may not stable / 
 
 - environement issues
-    - power consomation
+    - massive power consomation
+    - Electrical Energy in 2023 was comparable to the power consumption of Ukraine. 
+    (https://digiconomist.net/bitcoin-energy-consumption)
         - green energy ?
 
-- heat production
+- heat production : bitcoin
     - machines producing a lot of heat
+        - most of big mining sites are located in northen countries to have a cold environement to pay less air conditioning
+
+# legal
+
 - government centralization of currency
+    - have control over their currency
+- stocks market are not always open, whereas bitcoin market is
+
+# Cultural
+
+- individuals smaller shops starting crypto currencies only / as a rebellion to normal currencies
+- decentralized / centralized goverments, within those societies might reject this idear i.g 
+
+
+
 
 ---
 
@@ -99,11 +146,31 @@ programmers, auto-driving cars, moral, ethicals, legal and cultural
     - how would the public be persuaded of the security of auto-driving cars
     - drvirless cars would, in theory, reduce congestion and so how can this be communicated to imrpove uptake ?
 
-# At least seven points
-# ethical can be linked to cultural
-# Who uses it and where ?
-- different countries have different laws about 
 
+---
+
+Managers, not telling residents, PERS device, recording audio and video, carehome
+
+# Legal
+
+- pricavy
+    - audio and videos are recorded
+    - all data about the patient
+    - all data in one server
+        - single point
+            - more vulnerable to attacks
+        - security problem
+- need agreement from residents to be recorded
+
+# ethical
+
+- may pay for the service without knowing about it
+
+## Sentences
+
+One of the biggest issue would be the legal aspect and the violation of privacy, video and audio footage are being recorded constantly, which leads to having whole of the patients life on video and that can be accessed at any time by anyone of the staff. Furthermore, all of the data are stored in a single server on a website, which opens dors to single point server attacks which would may give access to the footage to hackers which leads to security problems. Also, residents need to give explicit consent to be recorded.
+
+Additionally, the patient may need to pay for this service which they are not even aware of, this may lead into confusion for certain residents who might be asking why they need to pay extra fees. 
 
 ---
 
@@ -121,5 +188,5 @@ Google streets, ethical, legal, cultural
     - some images may be offensive to certain cultures
     - cultutre of visiting places such as museums affected by access to them online
 
-- ethical 
-    - dealing with copyrights 
+- ethical
+    - dealing with copyrights
