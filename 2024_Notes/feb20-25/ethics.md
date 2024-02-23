@@ -2,6 +2,26 @@
 
 https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/subject-content-as/consequences-of-uses-of-computing
 
+# GDPR and COPYRIGHT
+
+# Case study
+
+- not under the same regulations
+- traded in any moment
+- not stable / 
+
+- environement issues
+    - power consomation
+        - green energy ?
+
+- heat production
+    - machines producing a lot of heat
+- government centralization of currency
+
+
+---
+
+
 # Ethics
 
 - 4 categories:
@@ -31,22 +51,6 @@ https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-
         - buses
 
 - balanced opinions
-
----
-
-# Case study
-
-- not under the same regulations
-- traded in any moment
-- not stable / 
-
-- environement issues
-    - power consomation
-        - green energy ?
-
-- heat production
-    - machines producing a lot of heat
-- government centralization of currency
 
 ---
 
@@ -117,3 +121,6 @@ Google streets, ethical, legal, cultural
 - Culturls
     - some images may be offensive to certain cultures
     - cultutre of visiting places such as museums affected by access to them online
+
+- ethical 
+    - dealing with copyrights 
