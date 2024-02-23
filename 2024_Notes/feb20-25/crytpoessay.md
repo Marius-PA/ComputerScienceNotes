@@ -1,8 +1,14 @@
 
 # What are the moral, ethical, legal and cultural aspects of Cryptocurrencies
 
-As cryptocurrencies are very recent in the world of finance, introducing a new technology called the blockchain which has been created to increase security and trust as a decentralized network. However, because crytocurrencies are worth real money individuals might not put trust into crytpocurriens due to their extreme volatility and that it has not been historically tested, which is not suitable for business to adopt if their clients do not trust a currency.
+As cryptocurrencies are very recent in the world of finance, introducing a new technology called the blockchain which has been created to increase security and trust as a decentralized network. However, because crytocurrencies are worth real money individuals might not put trust into crytpocurriens due to their extreme volatility and that it has not been historically tested can lead of it being seen more as gambling than investing. Which is not suitable for business to adopt if their clients do not trust a currency.
 
 Additionally, the blockchain requires a lot of computing power and energy for it to ensure safe and valid transitions into the network. Taking the example of Bitcoin, which to put into perpective, in 2023 Bitcoin energy consumption was comparable to the power consumption of Ukraine (141.77 TWh) (https://digiconomist.net/bitcoin-energy-consumption). This massive energy usages raises environment issues such as where the energy come from, is the energy used sustainable, is it green energy ? Which in most cases is not. Consequently, all this computing energy produces a lot of heat, and in big mining sites it raises issues for the local environment because most of massive mining sites are located in northen countries where the temperature is cold to prevent buying air conditioning systems.
 
-Also, because cryptocurrencies are decentralized, certain governments might reject this idear of peer-to-peer as governments want to have control over their currency and have it centralized to moniter the currency.
+The cryptocurrency market is open 24/7 whereas stocks are only open during the day, which may lead into people investing more into crytocurrencies than stocks and may have consequences over certain companies.
+
+Politically, because crytocurrencies are international, it may cause issues due to different laws in different countries, which may lead of some crytocurrencies being banned in some strict countries.
+
+Also, because cryptocurrencies are decentralized, certain governments might reject this idea of decentralized currency as governments want to have control over their currency and have it centralized to have the control and monitor it. However, on a smaller level, some shops or businesses who politically agree that their government should have less control over what is being exchanged, might implement cryptocurrencies as their main transaction system.
+
+To summarise, Cryptocurriens are a great improvement in technology by prioritizing decentralized network structure to improve security and validity of transactions. But due to the novelty, companies and individuals might not trust it. It also requires a lot of energy for the network to work properly which causes environment issues. Also, Governments have differents laws which may cause restrictions.
