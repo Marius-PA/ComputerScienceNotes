@@ -1,3 +1,5 @@
+[Main Ada computer 3.6](https://adacomputerscience.org/exam_specifications?examBoard=aqa&stage=a_level#a_level/aqa)
+
 # System Software
 
 - OS
@@ -118,3 +120,35 @@
         - control = control the flow of data
         - address = give the name of adresses
             - 'three-box model' uses the system bus to communicate between each other
+
+---
+
+# 29/02/24
+
+# OS
+
+[Ada computer OS](https://adacomputerscience.org/concepts/os_role_of_os?examBoard=all&stage=all)
+
+- 4 key areas
+    - Processor management
+    - Memory management
+    - Input/Outputs and interrupts
+        - Interrupts : fetch / execute cycle
+    - Security
+        - anti virus software
+
+
+- hardware
+    - processor schedulling
+    - handling interrupts
+        - prioritize processes
+    - memory management
+        - slice up memory and distribute it between processes
+        - fragementation into uneven portions
+    - secondary storage management
+        - tracking where files and programs are
+    - Input/Output device management
+    - multi-threadings
+
+
+## Research
