@@ -148,7 +148,37 @@
     - secondary storage management
         - tracking where files and programs are
     - Input/Output device management
+        - ensuring efficient communication with devices
+        - managing functionality issues
     - multi-threadings
 
+## User interface
+
+- GUI = Graphical User Interface
+- UI = User interface
+
+- UI = CLI
+- command line-interface
 
 ## Research
+
+Linux opened dors for thousands specialised Distros
+
+- testers, cybersecurity experts, developpers, low-hardawre computers due to being light and optimised.
+- Linux being open source, everyone can develop their own Distros using the Linux kernel, which open doors for developping a ton of different usages for OS.
+
+- smartphones:
+    - Android: use Linux kernel
+
+- massively used for servers
+
+- Ditros
+    - Security
+        - kali linux
+    - servers
+        - ubuntu server
+    - Windows like
+        - Linux Mint
+    - lightweight OS
+    - Highly customizable / Minimalist
+        - Arch linux
