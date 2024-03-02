@@ -33,3 +33,11 @@
             - Exemples:
                 - HTML
 
+- python interpreter is written in c++
+
+- Interpreter : run a program to run a program
+    - interpreter = a program
+    - glue between high level language, low level details
+
+- compiler
+    - compile the program into machine code or assembler
