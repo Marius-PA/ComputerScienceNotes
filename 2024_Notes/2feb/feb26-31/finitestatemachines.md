@@ -32,3 +32,10 @@
 - A Finite state sytem accepts a string
 
 C<sub>1/C<sub>2/C<sub>3/...
+
+---
+
+# State transition tables
+
+- Alternative
+    - State transition Table
