@@ -72,3 +72,9 @@
 
 - (plus) + = OR
     - A + B (A or B)
+
+---
+
+# Smallest Computer Using boolean
+
+![2 bits calculation](img/image21.png)
