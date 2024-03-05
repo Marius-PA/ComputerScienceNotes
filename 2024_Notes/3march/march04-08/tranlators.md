@@ -41,4 +41,14 @@
     - Most use bytecode (not a programming language)
         - function defined = produced bytecode
 
+- Assemblers
+    - compiles assembly into a machine code
 
+---
+
+[Visualisation Of Assembly Code](https://csreith.com/cpu.php)
+[PDF file of intructions](https://filestore.aqa.org.uk/resources/computing/AQA-75162-75172-ALI.PDF)
+
+- CPU
+    - registers
+        - you can treat registers as variables
