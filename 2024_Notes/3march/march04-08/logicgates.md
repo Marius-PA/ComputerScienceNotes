@@ -136,3 +136,13 @@
     A . (A + B)
     A . A + A . B
     A + A . B = A
+
+---
+
+# DeMorgan's Laws
+
+1. Negate the left-hand side
+2. Negate the right-hand side
+3. Negate the expression
+
+![boolean](img/boolean.png)
