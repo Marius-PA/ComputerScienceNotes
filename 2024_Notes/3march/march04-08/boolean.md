@@ -144,5 +144,6 @@
 1. Negate the left-hand side
 2. Negate the right-hand side
 3. Negate the expression
+4. Flip operator
 
 ![boolean](img/boolean.png)
