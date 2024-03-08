@@ -5,6 +5,13 @@
 
 # Logic Gate
 
+---
+
+## 0 = False
+## 1 = True
+
+---
+
 - What is a logic gate
     - UNARY
         - 1 input
@@ -78,3 +85,54 @@
 # Smallest Computer Using boolean
 
 ![2 bits calculation](img/image21.png)
+
+---
+
+# Boolean algebra
+
+- 3 different forms of writting boolean algebra
+    - USE AQA ONE !
+
+- 3 primary operations
+    - Negation = NOT
+        - REPRESENTED BY A BAR AT THE TOP OF A LETTER
+            - returns the opposite truth
+                - if 2 over bars, IT CANCELS OUT
+                    - cancel the opposite
+                    - have to match the EXACT SAME PART TO CANCEL OUT
+
+    - Conjunction = AND
+        - "." dotts
+            - akin to multiplication
+                - true if and only if both operands are true, otherwise false
+
+    - Disjunction = OR
+        - "+"
+            - akin to binary addition
+                - returns true of at least one operand is true, otherwise false
+
+    - Exclusive Disjunction = XOR
+        - "+" inside a circle
+            - one or the other but not both
+            - A but not B, or not A but B
+
+    A +circle B = A . B- + A- . B
+
+- order of operation
+    - brackets happen first
+        - negation
+        - conjunction
+
+    A . B + C = (A.B) + C
+
+- Associative Laws
+    - order of operations doesn't matter IF AND ONLY IF they are the same logic gates
+
+    A . (B . C) = (A . B) . C
+
+- Simplifying
+    - reduces the number of logic gates without changing the functionality
+
+    A . (A + B)
+    A . A + A . B
+    A + A . B = A
