@@ -50,3 +50,8 @@
     - luxury linus
 - Linux
     - developers
+
+
+# Exams
+
+- no single mark questions

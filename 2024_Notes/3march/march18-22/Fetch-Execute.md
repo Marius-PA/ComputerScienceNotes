@@ -5,7 +5,7 @@
 - stages of the Fetch-Execute cycle and determine the roles of the various processor regiserts in faciliting this
 - Factors that affect the performance of a processor
 
-# Exam question
+# Fetch-Execute cycle
 
 - Fetch-Execute cycle = 8 - 10 marks
     - extended answer
@@ -26,10 +26,19 @@
             - Contents of MBR is copied to the CIR
                 - so that data is fetched correctly
         - decode
+            - packs the upcode, location of the instructions and the instructions
             - identifies the opcode
             - identifies operands it needs
+            - look at the addressing mode
+            - indirect
+                - using a register to point to a memory location
         - execute
             - identifies what kind of operation if it is and sends it forward
+
+- upcode
+    - instructions
+- 3 addressing mode
+    - 2 bit
 
 # Arithmetic
 
