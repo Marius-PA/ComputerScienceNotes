@@ -14,17 +14,30 @@
         - wifi SSID connector
 
 - pen style code reader
-    - convert
+    - convert the black and white bar into binary data
+    - drag it consistently across the barcode
+    - detects where the black and white
+    
+    - photo diode
+        - receiving
 
 - laser scanners
     - laser beam across a 
     - laser sweeps the barcode
     - read on different postion
+    - uses a mirror to sweep across the barcode
+        - beam to read the barcodes
 
 - charge-coupled device (CCD)
+    - read the barcode with a light sensor
+        - reads all at once
     - photo diode
 
 - camera-based readers
+    - can read qr codes
+    - 2D codes
+
+---
 
 ### write a paragraph that outlies the different types of readers
 
@@ -43,7 +56,12 @@
 
 - CMOS
     - cheaper
-    - 
+    - lower resolution
+    - regular usages
+
+    CCD is more expensive , it uses much more power and is designed for professional uses. Whereas CMOS is cheaper, has lower resolution, designed for regular usages
+
+---
 
 - sensors made up of tiny sensors
 
@@ -57,7 +75,9 @@
     - capture more green
         - to look more natural
         - eye used to seeing green
-    
+
+    green is a more natural color, our eyes are more sensitive to green. With more green, photos look more natural
+
 ---
 
 ![laserprinter](image.png)
@@ -82,3 +102,5 @@
 
 - bitmap
     - images made out of pixel
+
+![fullphotograph](image-1.png)
