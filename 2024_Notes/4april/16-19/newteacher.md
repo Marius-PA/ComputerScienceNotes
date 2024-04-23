@@ -10,9 +10,9 @@
     - 32 bits
     - 64 bits
 
-![instructions](image.png)
+![instructions](img/image.png)
 
-![problem](image-1.png)
+![problem](img/image-1.png)
 
 ---
 
@@ -29,7 +29,7 @@
             - such a specific purpose
         - reduced intrustions
 
-![instructions](image-2.png)
+![instructions](img/image-2.png)
 
 - pipelining
     - speed of the processor
