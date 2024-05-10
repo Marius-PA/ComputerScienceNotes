@@ -29,3 +29,16 @@
 - optical disks need to physically move the heads to the correct location on the disk
 
 
+---
+
+- rational number can be represented as fractions
+- use words
+- unisgned fixed point binary number
+- measuring the amplitude of the wave (ADC)
+- manomics
+- the MBR may be busy
+- immidieate addressing:
+    - MOV R3, #42
+- direct:
+    - go to that memory location
+
