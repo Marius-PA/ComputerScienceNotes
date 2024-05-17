@@ -2,7 +2,7 @@
 
 ### hide a part of the program
 
-![class](image-7.png)
+![class](img/image-7.png)
 
 - Public
     - can be seen by everyone
@@ -48,14 +48,14 @@ self.__name = name
 
 - not access it, we don't know it exists
 
-![oui](image-8.png)
+![oui](img/image-8.png)
 
-![fzqdfdq](image-9.png)
+![fzqdfdq](img/image-9.png)
 
-![checkpin](image-10.png)
+![checkpin](img/image-10.png)
 
 
-![exiting](image-11.png)
+![exiting](img/image-11.png)
 
 - exiting the program early with the
     - return False

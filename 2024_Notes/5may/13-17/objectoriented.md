@@ -1,6 +1,6 @@
 - template for an object
 
-![template](image-5.png)
+![template](img/image-5.png)
 
 - Person's template
     - object
@@ -15,7 +15,7 @@
 
 - self refers to the object being called
 
-![example](image-6.png)
+![example](img/image-6.png)
 
 ---
 
@@ -36,14 +36,14 @@
 - self
     - current object
 
-![array](image-12.png)
+![array](img/image-12.png)
 
 - .split()
     - create array
         - "helo yes".split()
             - ['helo','yes']
 
-![again](image-13.png)
+![again](img/image-13.png)
 
 - time code : 28min-32min
 
@@ -51,6 +51,6 @@
 
 - Without init
 
-![withoutinit](image-14.png)
+![withoutinit](img/image-14.png)
 
-![round](image-16.png)
+![round](img/image-16.png)

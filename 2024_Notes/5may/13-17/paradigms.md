@@ -1,7 +1,7 @@
 
 # Programming Paradigms
 
-![see](image.png)
+![see](img/image.png)
 
 - procedural
     - all about subroutines
@@ -19,15 +19,15 @@
 - Stepwise-Approach
     - Hierarchy Charts
 
-![image](image-1.png)
+![image](img/image-1.png)
 
-![example](image-2.png)
+![example](img/image-2.png)
 
-![fzqdf](image-4.png)
+![fzqdf](img/image-4.png)
 
 ---
 
 # house step-wise
 
-![mytry](image-3.png)
+![mytry](img/image-3.png)
 
