@@ -19,5 +19,38 @@
 
 ---
 
-# Another example
+# 17/05/24
 
+- class diagram for a book
+
+- attribute
+    - cover
+    - book name
+    - pages
+- actions
+    - read(startPage)
+    - printPictures(pictures)
+
+---
+
+- self
+    - current object
+
+![array](image-12.png)
+
+- .split()
+    - create array
+        - "helo yes".split()
+            - ['helo','yes']
+
+![again](image-13.png)
+
+- time code : 28min-32min
+
+---
+
+- Without init
+
+![withoutinit](image-14.png)
+
+![round](image-16.png)
