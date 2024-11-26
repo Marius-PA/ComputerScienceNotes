@@ -1,10 +1,24 @@
 
 # Vector
+
+- both magnitude and lenght
+
 - Magnitude
+  - size of the vector
 - direction
 - NOT position
-
 - represented by an arrow
+
+# Notation
+
+### notation (4-vector)
+
+- 4 dimensiosn spacetime
+- (x,y,z) and t representing Time as the 4th dimension
+
+### Function
+
+    S = R means 'S maps to R'
 
 ## A vector can be represented:
 - As a list
@@ -18,6 +32,13 @@
 - Scalar–vector multiplication
 - Convex combination of two vectors
 - Dot or scalar product of two vector
+
+## Abstraction
+
+- model that represents only the part of reality that we are interested in
+- ignores irrelevant detail
+- abstract data type = ADT
+  - list in pyhton
 
 ---
 
@@ -85,9 +106,9 @@ Answer:  (13.5,15)
 - used in computer games
 
 - The expression is:
-    (α *  u ) + (β *  v )
+        (α *  u ) + (β *  v )
 - also:
-    α u  + β v
+        α u  + β v
 
 - Where:
   - u  and  v  are each vectors
@@ -100,13 +121,13 @@ Answer:  (13.5,15)
 - sometimes also called scalar product.
 
 - Exemple:
-    a  =  (2,  - 1)  and  b  =  ( - 7,  - 4) 
-    then  a  ∙  b  = ( 2  x - 7 ) + (- 1  x - 4 ) = -14+4  = -10
+        a  =  (2,  - 1)  and  b  =  ( - 7,  - 4) 
+        then  a  ∙  b  = ( 2  x - 7 ) + (- 1  x - 4 ) = -14+4  = -10
 
 - more:
     
   - Given the vectors:
-
+```
     a  =  (1,3,5) 
 
     b  =  (12,−4,7) 
@@ -116,15 +137,15 @@ Answer:  (13.5,15)
     Answer: 35
 
     (1 x 12) + (3 x -4) + (5 x 7) = 12 + -12 + 35 = 35
-
+```
 ## application of dot product:
 
 - Dot product of two vectors:
   - essential when you want to calculate the angle between the two vectors.
 
-    formula to calculate the angle ( θ ) between two vectors as:
+        formula to calculate the angle ( θ ) between two vectors as:
 
-    cosθ  = a.b/∣a∣.∣b∣
+        cosθ  = a.b/∣a∣.∣b∣
 
 - For your exam, you just need to know that finding the angle between two vectors is a possible application of dot product
   
@@ -138,5 +159,30 @@ Answer:  (13.5,15)
 
 - Vector graphics represent images using geometric shapes that are defined in terms of points on a Cartesian plane.
 
-- e used where images need to be rescaled frequently without losing image quality and with no considerable change to the file size.
+- used where images need to be rescaled frequently without losing image quality and with no considerable change to the file size.
 ​
+### why use vector
+
+- graphics and 3D graphics
+- computer games/simulations
+  - a ship steering against the wind and sea, calculating collisions
+- Multiple dimensions
+  - 2,3 or more
+
+# Python
+
+- List is the preferred representation
+- R² vector
+  - vector = [7,89]
+
+## Vector viewed as a function
+- dictonaries
+
+# Exercices
+
+2. x,y,z,t
+3. R = [8,7,6], R³
+4. 0 = 1.5
+1 = 3.4
+2 = 6.1
+
