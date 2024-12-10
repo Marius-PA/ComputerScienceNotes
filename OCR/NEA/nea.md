@@ -8,7 +8,7 @@
 
 ## timing
 - until 7 january, analysis
-- January / februray - design decumentation
+- January / februray - design documentation
 - February - march implementation
 - March - April testing evaluation
 
