@@ -82,4 +82,4 @@
 - more cache
     - will not have to fetch the next intruction into the RAM
         - it will already been loaded in the superfast cache memory
-            - can be retrived more quickylw
+            - can be retrived more quickly
